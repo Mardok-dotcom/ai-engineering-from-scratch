@@ -1,5 +1,0 @@
-*.pth 
-*.safetensors 
-*.bin 
-__pycache__/ 
-*.pyc 
